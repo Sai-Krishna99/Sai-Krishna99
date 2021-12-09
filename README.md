@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sai-Krishna99
+- 👋 Hi, I’m Sai Krishna
 - 👀 I’m interested in Data Science, more precisely in the fields of predictive analytics, neural networks, NLP and visual recognition. 
 - 🌱 I’m currently learning Machine Learning and Deep Learning techniques.
 - 🌱 Check out my Credly badge that I got after successfully completing all the miniprojects in Applied Data Science by World Quant University: 
