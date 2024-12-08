@@ -1,7 +1,6 @@
 # 💫 About Me:
 - 👀 I'm currently working on Deep Learning and Generative AI solutions.
 - 💞️ I'm open to collaborate on projects involving predictive analytics, Machine Learning/ Deep Learning and LLMs.
-- 🌱 I'm currently learning about Data Engineering tools and platforms for both local and cloud oriented data engineering solutions.
 - 👋 Fun fact - I'm an avid anime lover and mobile gamer.
 
 
