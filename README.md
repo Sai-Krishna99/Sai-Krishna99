@@ -1,17 +1,21 @@
-## Hey, I'm Sai 👋
+## Hi, I’m Sai
 
-ML/AI Engineer building decision-grade ML systems—forecasting platforms, agentic AI, and LLM-powered decision support.
+ML/AI Engineer focused on building **decision-grade machine learning systems** — forecasting platforms, agentic AI workflows, and LLM-powered decision support that operate reliably under real-world constraints.
 
-### What I'm working on
+### Selected Work
 
-- **[AFDC](https://github.com/ankitlade12/ADFC)** — Adaptive uncertainty calibration for probabilistic forecasting under distribution shift *(private research, OSS release pending)*
-- **[Regime-Aware Forecasting](https://github.com/IndarKarhana/Regime-Aware-Incremental-Time-Series-Forecasting)** — Incremental learning with checkpoint reuse for efficient model retraining *(private research, OSS release pending)*
-- **[Epilog](https://github.com/Sai-Krishna99/Epilog)** — AI-powered debugging platform for AI agents
-- **[TrueLift](https://github.com/Sai-Krishna99/truelift-ai)** — Real-time promotional cannibalization detection
+- **[AFDC](https://github.com/ankitlade12/ADFC)** — Adaptive uncertainty calibration for probabilistic forecasting under distribution shift, with emphasis on coverage control and decision-aligned risk management. *(Research, OSS release pending)*
 
-### Recent focus areas
+- **[Regime-Aware Forecasting](https://github.com/IndarKarhana/Regime-Aware-Incremental-Time-Series-Forecasting)** — Incremental time series forecasting with regime detection and checkpoint reuse to reduce retraining cost while preserving accuracy. *(Research, OSS release pending)*
 
-Time series forecasting · Agentic AI (LangGraph, MCP) · Uncertainty quantification · LLM applications · ML systems design
+- **[Epilog](https://github.com/Sai-Krishna99/Epilog)** — An observability and debugging platform for AI agents, enabling execution tracing, deterministic replay, and human-in-the-loop diagnostics.
+
+- **[TrueLift](https://github.com/Sai-Krishna99/truelift-ai)** — A real-time ML system for promotional cannibalization detection, combining streaming pipelines with ML and LLM-backed adaptive decision support.
+
+### Background & Interests
+
+I work primarily on problems where **uncertainty, system behavior, and decision impact** matter more than isolated model performance.  
+My interests include probabilistic forecasting, agent orchestration, ML systems design, and reliability-focused AI.
 
 ### Connect
 
